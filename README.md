@@ -8,7 +8,7 @@ When a friend, a coworker, or anyone else is struggling to do something simple, 
 - get you fired (Not yet proofed, would appreciate an Issue regarding proof)
 
 # How good is the Skill Implementation?
-You're only some skill, so it wont do wonders. However, it might open a new train of thought, so it can help.
+You're only downloading some skill, so it wont do wonders. However, it might open a new train of thought, so it can help.
 
 # Installation Guide
 It is super simple, but will leave you with slight less Storage. Delete the Folder it creates as soon as you dont need it anymore, reinstall the next time you need some skill.
