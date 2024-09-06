@@ -18,4 +18,4 @@ git clone https://github.com/TheCustomFHD/download-some-skill.git
 
 # Warranty?
 None. I do not offer any debugging, help of setup or mental issues due to loosing your friends.
-I also do not take any responsibilities of using this tool, or anything that happens as a chain reaction due to this. Use at your own risk!
+I also do not take any responsibilities about you using this tool, or anything that happens as a chain reaction due to this. Use at your own risk!
