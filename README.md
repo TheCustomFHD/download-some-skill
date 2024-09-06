@@ -1,5 +1,5 @@
 # download-some-skill
-When a friend, a coworker, or anyone else is struggling to something simple, ask them to "download-some-skill" from Github!
+When a friend, a coworker, or anyone else is struggling to do something simple, ask them to "download-some-skill" from Github!
 
 # What can this do?
 - burn some of the recievers ego
